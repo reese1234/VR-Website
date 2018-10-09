@@ -1,0 +1,9 @@
+﻿bin/
+obj/
+Properties/
+packages.config
+VR's Website.csproj
+VR's Website.csproj.user
+Web.config
+Web.Debug.config
+Web.Release.config
